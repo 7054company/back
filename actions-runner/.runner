@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "7054company",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/Ar0YriSdDQlv4yA7PDol8prZJ5jLP6SifQBRBQZnAxPZPfwr2C/",
+  "gitHubUrl": "https://github.com/7054company/7ea",
+  "workFolder": "work"
+}

@@ -1,0 +1,8 @@
+[11/14/2019 11:30:14] [d(0)] core: Created user based module store
+[11/14/2019 11:30:20] [e(0)] core: Unable to load module /opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py, unknown module type
+[11/14/2019 11:31:52] [e(0)] core: Unable to load module /opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py, unknown module type
+[11/23/2019 10:39:46] [e(0)] core: Unable to load module /opt/metasploit-framework/embedded/framework/modules/auxiliary/gather/office365userenum.py, unknown module type
+[11/23/2019 10:39:46] [e(0)] core: Errno::EISDIR : Is a directory @ rb_sysopen - /home/serverlogin/tmp
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:465:in `initialize'
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:465:in `open'
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:465:in `<main>'

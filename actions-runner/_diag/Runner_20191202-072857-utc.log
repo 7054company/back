@@ -1,0 +1,145 @@
+[2019-12-02 07:28:57Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2019-12-02 07:28:57Z INFO Listener] RuntimeInformation: Linux 5.0.0-1025-azure #27~18.04.1-Ubuntu SMP Mon Nov 11 15:19:19 UTC 2019.
+[2019-12-02 07:28:57Z INFO Listener] Version: 2.161.0
+[2019-12-02 07:28:57Z INFO Listener] Commit: 3ade8424a5ef383363b7c8decfef2280d0dedb97
+[2019-12-02 07:28:57Z INFO Listener] Culture: 
+[2019-12-02 07:28:57Z INFO Listener] UI Culture: 
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO Listener] Validating directory permissions for: '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO CommandLineParser] Parse
+[2019-12-02 07:28:57Z INFO CommandLineParser] Parsing 1 args
+[2019-12-02 07:28:57Z INFO CommandLineParser] parsing argument
+[2019-12-02 07:28:57Z INFO CommandLineParser] HasArgs: False
+[2019-12-02 07:28:57Z INFO CommandLineParser] Adding Command: run
+[2019-12-02 07:28:57Z INFO Listener] Arguments parsed
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'Proxy': '/home/serverlogin/actions-runner/.proxy'
+[2019-12-02 07:28:57Z INFO RunnerWebProxy] No proxy setting found.
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'Certificates': '/home/serverlogin/actions-runner/.certificates'
+[2019-12-02 07:28:57Z INFO RunnerCertificateManager] No certificate setting found.
+[2019-12-02 07:28:57Z INFO Runner] ExecuteCommand
+[2019-12-02 07:28:57Z INFO ConfigurationStore] currentAssemblyLocation: /home/serverlogin/actions-runner/bin/Runner.Listener.dll
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] binPath: /home/serverlogin/actions-runner/bin
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] RootFolder: /home/serverlogin/actions-runner
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'Runner': '/home/serverlogin/actions-runner/.runner'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] ConfigFilePath: /home/serverlogin/actions-runner/.runner
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'Credentials': '/home/serverlogin/actions-runner/.credentials'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] CredFilePath: /home/serverlogin/actions-runner/.credentials
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'Service': '/home/serverlogin/actions-runner/.service'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] ServiceConfigFilePath: /home/serverlogin/actions-runner/.service
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'Options': '/home/serverlogin/actions-runner/.options'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] RuntimeOptionsFilePath: /home/serverlogin/actions-runner/.options
+[2019-12-02 07:28:57Z INFO CommandSettings] Flag 'help': 'False'
+[2019-12-02 07:28:57Z INFO CommandSettings] Flag 'version': 'False'
+[2019-12-02 07:28:57Z INFO CommandSettings] Flag 'commit': 'False'
+[2019-12-02 07:28:57Z INFO CommandSettings] Command 'configure': 'False'
+[2019-12-02 07:28:57Z INFO CommandSettings] Command 'remove': 'False'
+[2019-12-02 07:28:57Z INFO CommandSettings] Command 'warmup': 'False'
+[2019-12-02 07:28:57Z INFO ConfigurationManager] LoadSettings
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsConfigured()
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsConfigured: True
+[2019-12-02 07:28:57Z INFO ConfigurationManager] Is configured: True
+[2019-12-02 07:28:57Z INFO ConfigurationStore] Read setting file: 284 chars
+[2019-12-02 07:28:57Z INFO ConfigurationManager] Settings Loaded
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsServiceConfigured()
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsServiceConfigured: False
+[2019-12-02 07:28:57Z INFO CommandSettings] Command 'run': 'True'
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsConfigured()
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsConfigured: True
+[2019-12-02 07:28:57Z INFO ConfigurationManager] Is configured: True
+[2019-12-02 07:28:57Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2019-12-02 07:28:57Z INFO Runner] Set runner startup type - Manual
+[2019-12-02 07:28:57Z INFO CommandSettings] Flag 'once': 'False'
+[2019-12-02 07:28:57Z INFO Runner] RunAsync
+[2019-12-02 07:28:57Z INFO ConfigurationManager] LoadSettings
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsConfigured()
+[2019-12-02 07:28:57Z INFO ConfigurationStore] IsConfigured: True
+[2019-12-02 07:28:57Z INFO ConfigurationManager] Is configured: True
+[2019-12-02 07:28:57Z INFO ConfigurationManager] Settings Loaded
+[2019-12-02 07:28:57Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "7054company",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/Ar0YriSdDQlv4yA7PDol8prZJ5jLP6SifQBRBQZnAxPZPfwr2C/",
+  "GitHubUrl": "https://github.com/7054company/7ea",
+  "WorkFolder": "work"
+}
+[2019-12-02 07:28:57Z INFO MessageListener] Loading Credentials
+[2019-12-02 07:28:57Z INFO ConfigurationStore] HasCredentials()
+[2019-12-02 07:28:57Z INFO ConfigurationStore] stored True
+[2019-12-02 07:28:57Z INFO CredentialManager] GetCredentialProvider
+[2019-12-02 07:28:57Z INFO CredentialManager] Creating type OAuth
+[2019-12-02 07:28:57Z INFO CredentialManager] Creating credential type: OAuth
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Bin': '/home/serverlogin/actions-runner/bin'
+[2019-12-02 07:28:57Z INFO HostContext] Well known directory 'Root': '/home/serverlogin/actions-runner'
+[2019-12-02 07:28:57Z INFO HostContext] Well known config file 'RSACredentials': '/home/serverlogin/actions-runner/.credentials_rsaparams'
+[2019-12-02 07:28:57Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/serverlogin/actions-runner/.credentials_rsaparams
+[2019-12-02 07:28:57Z INFO MessageListener] Attempt to create session.
+[2019-12-02 07:28:57Z INFO MessageListener] Connecting to the Agent Server...
+[2019-12-02 07:28:57Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2019-12-02 07:28:57Z INFO GitHubActionsRunner] Starting operation Location.GetConnectionData
+[2019-12-02 07:28:57Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2019-12-02 07:28:57Z INFO GitHubActionsRunner] Starting operation Location.GetConnectionData
+[2019-12-02 07:28:57Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2019-12-02 07:28:57Z INFO GitHubActionsRunner] Starting operation Location.GetConnectionData
+[2019-12-02 07:28:57Z INFO GitHubActionsRunner] Finished operation Location.GetConnectionData
+[2019-12-02 07:28:57Z INFO GitHubActionsRunner] Finished operation Location.GetConnectionData
+[2019-12-02 07:28:58Z INFO GitHubActionsRunner] Finished operation Location.GetConnectionData
+[2019-12-02 07:29:00Z INFO MessageListener] VssConnection created
+[2019-12-02 07:29:00Z INFO Terminal] WRITE LINE: 
+[2019-12-02 07:29:00Z INFO Terminal] WRITE LINE: 
+[2019-12-02 07:29:00Z WARN GitHubActionsRunner] Authentication failed with status code 401.
+Cache-Control: no-cache
+Pragma: no-cache
+P3P: CP="CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT"
+WWW-Authenticate: Basic realm="https://pipelines.actions.githubusercontent.com/serviceDeployments/pipelinesghubeus22", Bearer, TFS-Federated
+X-TFS-ProcessId: 51c962a8-674d-4804-ae3b-febdacbda566
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+ActivityId: ee6ebadc-f3eb-4803-b521-33c55aba8a72
+X-TFS-Session: 69cb5a66-c55f-4230-98d5-229d9f607226
+X-VSS-E2EID: 58d4a2d3-c367-4a45-b1ca-b53468ac9ec2
+X-Frame-Options: SAMEORIGIN
+X-TFS-FedAuthRealm: https://pipelines.actions.githubusercontent.com/serviceDeployments/pipelinesghubeus22
+X-TFS-FedAuthIssuer: https://www.visualstudio.com/
+X-VSS-AuthorizationEndpoint: https://vssps.actions.githubusercontent.com/Ar0YriSdDQlv4yA7PDol8prZJ5jLP6SifQBRBQZnAxPZPfwr2C/
+X-VSS-ResourceTenant: 00000000-0000-0000-0000-000000000000
+X-VSS-S2STargetService: 0000005a-0000-8888-8000-000000000000/visualstudio.com
+X-TFS-FedAuthRedirect: https://github.com
+Request-Context: appId=cid-v1:d74a64c6-afea-44df-86c1-871592e1cd57
+Access-Control-Expose-Headers: Request-Context
+X-Content-Type-Options: nosniff
+X-MSEdge-Ref: Ref A: F2B4D55D4CEB41B99466E75702ED31C0 Ref B: ASHEDGE0906 Ref C: 2019-12-02T07:29:00Z
+Date: Mon, 02 Dec 2019 07:28:59 GMT
+
+[2019-12-02 07:29:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/serverlogin/actions-runner/.credentials_rsaparams
+[2019-12-02 07:29:00Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/serverlogin/actions-runner/.credentials_rsaparams
+[2019-12-02 07:29:00Z INFO GitHubActionsRunner] AAD Correlation ID for this token request: Unknown
+[2019-12-02 07:29:00Z INFO MessageListener] Session created.
+[2019-12-02 07:29:00Z INFO Terminal] WRITE LINE: 2019-12-02 07:29:00Z: Listening for Jobs
+[2019-12-02 07:29:00Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2019-12-02 07:30:49Z INFO Terminal] WRITE LINE: Exiting...
+[2019-12-02 07:30:49Z INFO ConfigurationStore] IsServiceConfigured()
+[2019-12-02 07:30:49Z INFO ConfigurationStore] IsServiceConfigured: False
+[2019-12-02 07:30:49Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2019-12-02 07:30:49Z WARN GitHubActionsRunner] GET request to https://pipelines.actions.githubusercontent.com/Ar0YriSdDQlv4yA7PDol8prZJ5jLP6SifQBRBQZnAxPZPfwr2C/_apis/distributedtask/pools/1/messages?sessionId=4f00d136-33d3-4854-8ec0-41daf177485f has been cancelled.
+[2019-12-02 07:30:49Z INFO MessageListener] Get next message has been cancelled.
+[2019-12-02 07:30:49Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2019-12-02 07:30:49Z INFO Listener] Runner execution been cancelled.
